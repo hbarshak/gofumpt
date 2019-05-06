@@ -22,7 +22,7 @@ import (
 	"runtime/pprof"
 	"strings"
 
-	"mvdan.cc/gofumpt/internal"
+	"github.com/hbarshak/gofumpt/internal"
 )
 
 var (

@@ -21,8 +21,8 @@ import (
 	"runtime/pprof"
 	"strings"
 
+	"github.com/hbarshak/gofumpt/internal"
 	"golang.org/x/tools/imports"
-	"mvdan.cc/gofumpt/internal"
 )
 
 var (
